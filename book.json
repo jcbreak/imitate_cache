@@ -1,0 +1,11 @@
+{
+  "gitbook": "2.6.7",
+  "plugins": [
+    "fontsettings",
+    "sharing",
+    "lunr",
+    "search",
+    "highlight",
+    "livereload"
+  ]
+}

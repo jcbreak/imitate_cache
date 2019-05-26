@@ -14,14 +14,14 @@
 
 ...
 
-- 使用文档
-- 二次开发文档
+- [使用文档](./doc/use/README.md)
+- [二次开发文档](./doc/dev/README.md)
 
 ## 交流提问区
 
 https://github.com/jcbreak/imitate_cache/issues
 
 ## 关于作者
-
+---
 - 个人地址
 - 二维码
